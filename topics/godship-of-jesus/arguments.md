@@ -14,16 +14,20 @@
 | 08 | Bagaimana Mungkin Allah Mati di Kayu Salib? | Inkarnasi / Salib |
 | 09 | Tidak Ada Kata "Tritunggal" di Dalam Alkitab | Tritunggal / Teologi Sistematik |
 | 10 | Kemahatahuan dan Relasi dengan Bapa (Shirk) | Mahatahu / Relasi Bapa-Anak |
+| 11 | Penggunaan Gelar "Anak Manusia" dan Otoritas Atas Hari Sabat | Markus 2 / Otoritas Ilahi |
+| 12 | Konsep Agen Ilahi (Shaliach) vs Identitas Ilahi | Shaliach / Agen Ilahi |
+| 13 | Atribut Kemahatahuan dan Mengetahui Isi Hati | Mahatahu / Atribut Ilahi |
+| 14 | Klaim Eksklusivitas Relasi Bapa dan Anak | Relasi Bapa-Anak / Dokumen Q |
+| 15 | Menguji Klaim Yesus Menggunakan Standar "Syirik" | Syirik / Klaim Mesianik |
+| 16 | Siapa yang Berhak Mengutus Para Nabi? | Matius 23 / Mengutus Nabi |
+| 17 | "Kepastian Metafisik" Al-Qur'an vs Validitas Dokumen Sejarah | Metodologi / Epistemologi |
+| 18 | Historisitas Nubuatan Kematian Yesus dan Kegagalan Murid | Kriteria Rasa Malu / Historisitas |
+| 19 | Kesetaraan Atribut: Semua Milik Bapa Adalah Milik Anak | Yohanes 16 / Kesatuan Esensi |
+| 20 | Standar Pembuktian "Tritunggal" Pada Yesus Historis | Tritunggal / Teologi Sistematik |
 
-## Individual Files
+## Cross-Topic Entries
 
-- `01_hamba_yg_menderita.md`
-- `02_lamo_yesaya_53.md`
-- `03_dihina_vs_dipuji.md`
-- `04_otoritas_yudaisme.md`
-- `05_anak_manusia_sabat.md`
-- `06_agen_ilahi.md`
-- `07_anak_allah.md`
-- `08_allah_mati_salib.md`
-- `09_tritunggal.md`
-- `10_mahatahu_relasi_bapa.md`
+| # | Title | Topic |
+|---|-------|-------|
+| 17 | "Kepastian Metafisik" Al-Qur'an vs Validitas Dokumen Sejarah | Case of the Bible |
+| 18 | Historisitas Nubuatan Kematian Yesus dan Kegagalan Murid | Resurrection Evidence |
